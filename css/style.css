@@ -62,6 +62,8 @@ footer {
 }
 
 .about{
+  margin-right:100px;
+  margin-left:100px;
   margin-top: 150px;
   text-align: center;
 }
