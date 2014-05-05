@@ -1,0 +1,124 @@
+{
+  "name":"showrooming",
+  "children":[
+{
+  "name": "ONLONL", 
+  "children": [
+    {
+      "count": 16, 
+      "price": 209.07, 
+      "name": "F"
+    }, 
+    {
+      "count": 2, 
+      "price": 93.86, 
+      "name": "G"
+    }, 
+    {
+      "count": 27, 
+      "price": 2086.1299999999997, 
+      "name": "S"
+    }, 
+    {
+      "count": 6, 
+      "price": 681.45, 
+      "name": "C"
+    }, 
+    {
+      "count": 10, 
+      "price": 2452.1, 
+      "name": "E"
+    }
+  ]
+},
+{
+  "name": "ONLSTR", 
+  "children": [
+    {
+      "count": 12, 
+      "price": 101.3, 
+      "name": "F"
+    }, 
+    {
+      "count": 4, 
+      "price": 93.36, 
+      "name": "G"
+    }, 
+    {
+      "count": 12, 
+      "price": 1628.91, 
+      "name": "S"
+    }, 
+    {
+      "count": 9, 
+      "price": 416.19, 
+      "name": "C"
+    }, 
+    {
+      "count": 4, 
+      "price": 279.2, 
+      "name": "E"
+    }
+  ]
+},
+{
+  "name": "STRONL", 
+  "children": [
+    {
+      "count": 1, 
+      "price": 50.32, 
+      "name": "F"
+    }, 
+    {
+      "count": 0, 
+      "price": 0, 
+      "name": "G"
+    }, 
+    {
+      "count": 3, 
+      "price": 936.9, 
+      "name": "S"
+    }, 
+    {
+      "count": 2, 
+      "price": 121.9, 
+      "name": "C"
+    }, 
+    {
+      "count": 1, 
+      "price": 339.38, 
+      "name": "E"
+    }
+  ]
+},{
+  "name": "STRSTR", 
+  "children": [
+    {
+      "count": 336, 
+      "price": 3177.3999999999996, 
+      "name": "F"
+    }, 
+    {
+      "count": 111, 
+      "price": 1679.269999999999, 
+      "name": "G"
+    }, 
+    {
+      "count": 31, 
+      "price": 921.6, 
+      "name": "S"
+    }, 
+    {
+      "count": 18, 
+      "price": 650.8700000000001, 
+      "name": "C"
+    }, 
+    {
+      "count": 3, 
+      "price": 38.96, 
+      "name": "E"
+    }
+  ]
+}
+]
+}
