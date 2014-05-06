@@ -137,7 +137,7 @@ var custom_bubble_chart = (function(d3, CustomTooltip) {
 
 
   function display_types() {
-      var types_x = {"ONLONL": type_centers["ONLONL"]["x"]-60, "ONLSTR": type_centers["ONLSTR"]["x"]-30, "STRONL": type_centers["STRONL"]["x"]-20, "STRSTR": type_centers["STRSTR"]["x"]+10};
+      var types_x = {"LOOK ONLINE SHOP ONLINE": type_centers["ONLONL"]["x"]-60, "LOOK ONLINE SHOP IN STORE": type_centers["ONLSTR"]["x"]-30, "LOOK IN STORE SHOP ONLINE": type_centers["STRONL"]["x"]-20, "LOOK IN STORE SHOP IN STORE": type_centers["STRSTR"]["x"]+10};
       var types_data = d3.keys(types_x);
       var types = vis.selectAll(".types")
                  .data(types_data);
@@ -279,6 +279,9 @@ var custom_bubble_chart = (function(d3, CustomTooltip) {
 	  display_by_user();
 	}
 	 else {
+    hide_categories();
+    hide_types();
+    hide_users();
       display_group_all();
       }
     };
