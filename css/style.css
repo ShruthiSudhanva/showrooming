@@ -67,3 +67,7 @@ footer {
   margin-top: 150px;
   text-align: center;
 }
+
+#time{
+  overflow-x: scroll;
+}
